@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\operador-this\bin\Debug\net6.0\operador-this.exe
+C:\Users\Usuário\Desktop\operador-this\bin\Debug\net6.0\operador-this.deps.json
+C:\Users\Usuário\Desktop\operador-this\bin\Debug\net6.0\operador-this.runtimeconfig.json
+C:\Users\Usuário\Desktop\operador-this\bin\Debug\net6.0\operador-this.dll
+C:\Users\Usuário\Desktop\operador-this\bin\Debug\net6.0\operador-this.pdb
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.dll
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\refint\operador-this.dll
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.pdb
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\operador-this.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\operador-this\obj\Debug\net6.0\ref\operador-this.dll

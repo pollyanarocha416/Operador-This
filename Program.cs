@@ -14,7 +14,7 @@
 
 class Program{
     static void Main(){
-        Calculos c = new Calculos(10, 2);
+        Calculos c = new Calculos(10, 4);
         Console.WriteLine(c.Somar());
     }
 }
